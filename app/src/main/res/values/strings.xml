@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">p2p10inflar</string>
+    <string name="nombre">Juan Manuel G.A</string>
+    <string name="plantext">Bienvenido</string>
+    <string name="btn1">Mensaje 1</string>
+    <string name="btn2">Mensaje 2</string>
+    <string name="btn3">Mensaje 3</string>
+    <string name="btn4">Mensaje 4</string>
+    <string name="btn5">Mensaje 5</string>
+</resources>
